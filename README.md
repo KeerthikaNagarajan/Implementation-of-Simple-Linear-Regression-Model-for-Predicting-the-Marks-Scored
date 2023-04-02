@@ -82,7 +82,7 @@ print("RMSE = ",rmse)
 * df.head()
 <img width="104" alt="1" src="https://user-images.githubusercontent.com/93427089/229064210-55c661ee-0b92-4cbe-b39f-19acb8bd0ee1.png">
 
-* df.head()
+* df.tail()
 <img width="117" alt="2" src="https://user-images.githubusercontent.com/93427089/229064501-8b4193d0-6410-4492-90ac-c777250ab40d.png">
 
 * Array value of X
